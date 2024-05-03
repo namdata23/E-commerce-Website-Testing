@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39_Nam_N2_TestWebnopCommerce", "39_Nam_N2_TestWebnopCommerce\39_Nam_N2_TestWebnopCommerce.csproj", "{6222E9F4-5406-4140-80D7-D4BAA70FB6A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6222E9F4-5406-4140-80D7-D4BAA70FB6A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6222E9F4-5406-4140-80D7-D4BAA70FB6A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6222E9F4-5406-4140-80D7-D4BAA70FB6A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6222E9F4-5406-4140-80D7-D4BAA70FB6A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBA052AC-E1FC-4559-882F-568D1F72E7F0}
+	EndGlobalSection
+EndGlobal
